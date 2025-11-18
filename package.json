@@ -1,0 +1,25 @@
+{
+  "name": "solecito-csv-excel-converter",
+  "version": "1.0.0",
+  "description": "Conversor accesible y moderno de CSV a Excel - Solecito",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "dev": "npx http-server -p 8080"
+  },
+  "keywords": [
+    "csv",
+    "excel",
+    "converter",
+    "accessibility",
+    "a11y"
+  ],
+  "author": "Solecito",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
