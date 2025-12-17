@@ -21,17 +21,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // ========================================
     // CONFIGURACIÓN DE MEDIOS
-    // Agrega aquí tus archivos multimedia
     // ========================================
     const mediaConfig = {
         images: [
-            // Agrega las rutas de tus imágenes aquí
-            // Ejemplo: 'assets/images/foto1.jpg',
-            // 'assets/images/foto2.jpg',
+            'assets/images/Imagen de WhatsApp 2025-12-17 a las 01.07.55_93556a59.jpg',
+            'assets/images/Imagen de WhatsApp 2025-12-17 a las 01.07.55_c6f953ee.jpg',
+            'assets/images/Imagen de WhatsApp 2025-12-17 a las 01.07.56_0041f6f2.jpg',
+            'assets/images/Imagen de WhatsApp 2025-12-17 a las 01.07.56_2bfddbd4.jpg',
+            'assets/images/Imagen de WhatsApp 2025-12-17 a las 01.07.56_e4b5abb2.jpg',
+            'assets/images/Imagen de WhatsApp 2025-12-17 a las 01.08.00_ecb0cb3c.jpg',
         ],
         videos: [
-            // Agrega las rutas de tus videos aquí
-            // Ejemplo: 'assets/videos/video1.mp4',
+            'assets/videos/Video de WhatsApp 2025-12-17 a las 01.07.59_ef25564a.mp4',
+            'assets/videos/Video de WhatsApp 2025-12-17 a las 01.09.57_c8722d86.mp4',
         ]
     };
 
